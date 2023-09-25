@@ -169,7 +169,7 @@ def handle_message(update: Update, context: CallbackContext):
 
 def main():
     # Inicialização do bot
-    updater = Updater(token='6413276668:AAGrKUEARbnkLRSpOFod9JZNzroR5PCNTEk', use_context=True)
+    updater = Updater(token='INSERIR TOKEN', use_context=True)
     dispatcher = updater.dispatcher
 
     # Associar a função de tratamento de mensagens ao bot
