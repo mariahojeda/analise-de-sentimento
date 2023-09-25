@@ -158,7 +158,7 @@ print("Probabilidades das classes:", probabilidade_predita)
 
 ## BOT TELEGRAM
 # Configurações do bot
-TOKEN = "6413276668:AAGrKUEARbnkLRSpOFod9JZNzroR5PCNTEk"
+TOKEN = "INSERIR TOKEN"
 
 # Função para lidar com as mensagens do usuário
 def handle_message(update: Update, context: CallbackContext):
